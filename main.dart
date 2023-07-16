@@ -1,8 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_internet_speed_test/flutter_internet_speed_test.dart';
-import 'package:haha/ui/chart/pie_chart.dart';
-import 'package:haha/ui/chart/bar_chart.dart';
+
 void main() {
   runApp(const MyApp());
 }
